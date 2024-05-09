@@ -1,0 +1,43 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #c0fd87;
+            text-align: center;
+        }
+        h1 {
+            color: #000000;
+            text-align: left;
+        }
+        p {
+            color: #666;
+        }
+        label {
+            color: #333;
+        }
+        input[type="number"] {
+            width: 100px;
+            padding: 5px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            padding: 20px 40px;
+            background-color: #f07777;
+            color: rgb(0, 0, 0);
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #canvas {
+            display: block;
+            margin: 0 auto;
+            width: 800px;
+            height: 800px;
+            border: 1px solid #000;
+        }
+
