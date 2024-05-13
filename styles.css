@@ -2,18 +2,18 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
-            background-color: #1e00a3;
+            background-color: #1e01a3;
             text-align: center;
         }
         h1 {
-            color: #000000;
+            color: #ffffff;
             text-align: left;
         }
         p {
-            color: #666;
+            color: #ffffff;
         }
         label {
-            color: #333;
+            color: #ffffff;
         }
         input[type="number"] {
             width: 100px;
@@ -38,6 +38,6 @@
             margin: 0 auto;
             width: 500px;
             height: 500px;
-            border: 1px solid #000;
+            border: 6px solid #ffffff;
         }
 
